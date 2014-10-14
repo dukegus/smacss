@@ -1,0 +1,158 @@
+/* CSS Document */
+/*Gloabally change everything in CSS*/
+
+
+
+*{
+  margin:0;
+  padding:0;
+  }
+  
+body{
+	 background:#000 url(../images/tile.png) repeat;
+ }
+ #wrapper{
+	 float:center;
+	 width:980px;
+	 margin-top:0px;
+	 margin-right:auto;
+	 margin-bottom:0px;
+	 margin-left:auto;
+	 background-color:#000;
+ }
+ 
+ #header{
+	 background:#000 url(../images/jsbanner2.jpg) ;
+	 color:#960;
+	 text-align:center;
+	 width:960px;
+	 height:180px;
+	 padding:10px;
+ }
+ nav{
+	 float:left;
+	 text-align:center;
+	 font-family:"Papyrus";
+	 width:960px;
+	 padding:10px;
+	 
+	 background:#46361c;
+ }
+ 
+ nav ul a:hover{
+		color:#fff;
+		background-color:#000;
+		padding:5px;
+}
+ul a{
+	color:#000;
+}
+
+ li{
+	 display:inline;
+	 margin:15px;
+	 font-size:27px;
+	 
+ }
+ #status{
+	color:#c7af84; 
+ }
+ #main-content{
+	 float:center;
+	 width:660px;
+	 font-family:"Parisian";
+	 margin-left:auto;
+	 margin-right:auto;
+	 padding:10px;
+	 color:#c7af84;
+	 background:#2D2B38 url(../images/jscomp2.jpg);
+ }
+ 
+ #content p{
+	 padding-left:20px;
+ 	 padding-right:20px;
+ }
+ #content h1{padding:20px;
+ }
+	 
+p{
+	margin-bottom: 1.2em;
+}
+ 
+ h1, h2, h3{
+	  font-family:Verdana, Geneva, sans-serif;
+ }
+ 
+ .feature{
+	 	background:#FFF url(../images/tree.jpeg);
+		width:290px;
+		height:140px;
+		float:left;
+		border:1px solid black;
+		border-bottom-width:3px;
+		margin:1px;
+		padding:5px;
+		margin-bottom:10px;
+		margin-right:8px;
+		margin-left:9px;
+ }
+ .feature p, h3{padding-left:10px;
+ }
+ 
+ /*Feature End*/
+ #footer{
+	 background-color:#000;
+	 text-align:center;
+	 color:#FFF;
+	 padding:10px;
+	 clear:both;
+	 
+ }
+ 
+ 
+
+
+
+
+form{
+
+	width:450px;
+	color:#fff;
+	padding:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+
+legend{
+	padding-bottom:20px;
+	/*text-transform:uppercase;*/
+}
+
+
+
+form ul li{
+	list-style:none;
+	/*border:#E65759 1px solid;*/
+	margin-bottom:15px;
+}
+
+label{
+	width:80px;
+	display:inline-block;
+}
+
+input{
+	width:250px;
+	height:15px;
+}
+
+textarea{
+	width:402px;
+	height:200px;
+	vertical-align:top;
+}
+
+.mybutt{
+	width:100px;
+	margin-left:82px;
+}
