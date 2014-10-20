@@ -11,7 +11,7 @@
 body{
 	 background:#000 url(../images/tile.png) repeat;
  }
- #wrapper{
+ .wrapper{
 	 float:center;
 	 width:980px;
 	 margin-top:0px;
@@ -21,7 +21,7 @@ body{
 	 background-color:#000;
  }
  
- #header{
+ .header{
 	 background:#000 url(../images/jsbanner2.jpg) ;
 	 color:#960;
 	 text-align:center;
@@ -29,7 +29,7 @@ body{
 	 height:180px;
 	 padding:10px;
  }
- nav{
+ .nav{
 	 float:left;
 	 text-align:center;
 	 font-family:"Papyrus";
@@ -39,7 +39,7 @@ body{
 	 background:#46361c;
  }
  
- nav ul a:hover{
+ .nav ul a:hover{
 		color:#fff;
 		background-color:#000;
 		padding:5px;
@@ -54,10 +54,10 @@ ul a{
 	 font-size:27px;
 	 
  }
- #status{
+ .status{
 	color:#c7af84; 
  }
- #main-content{
+ .main-content{
 	 float:center;
 	 width:660px;
 	 font-family:"Parisian";
@@ -68,11 +68,11 @@ ul a{
 	 background:#2D2B38 url(../images/jscomp2.jpg);
  }
  
- #content p{
+ .content p{
 	 padding-left:20px;
  	 padding-right:20px;
  }
- #content h1{padding:20px;
+ .content h1{padding:20px;
  }
 	 
 p{
@@ -100,7 +100,7 @@ p{
  }
  
  /*Feature End*/
- #footer{
+ .footer{
 	 background-color:#000;
 	 text-align:center;
 	 color:#FFF;
