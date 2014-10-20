@@ -11,7 +11,7 @@
 body{
 	 background:#000 url(../images/tile.png) repeat;
  }
- .wrapper{
+ .shell{
 	 float:center;
 	 width:980px;
 	 margin-top:0px;
@@ -57,7 +57,7 @@ ul a{
  .status{
 	color:#c7af84; 
  }
- .main-content{
+ .info{
 	 float:center;
 	 width:660px;
 	 font-family:"Parisian";
@@ -68,11 +68,11 @@ ul a{
 	 background:#2D2B38 url(../images/jscomp2.jpg);
  }
  
- .content p{
+ .stuff p{
 	 padding-left:20px;
  	 padding-right:20px;
  }
- .content h1{padding:20px;
+ .stuff h1{padding:20px;
  }
 	 
 p{
