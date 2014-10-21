@@ -22,7 +22,7 @@ body{
  }
  
  .header{
-	 background:#000 url(../images/jsbanner2.jpg) ;
+	 background:#000 url(../images/jsbanner2.jpg) no-repeat ;
 	 color:#960;
 	 text-align:center;
 	 width:960px;
@@ -65,7 +65,7 @@ ul a{
 	 margin-right:auto;
 	 padding:10px;
 	 color:#c7af84;
-	 background:#2D2B38 url(../images/jscomp2.jpg);
+	 background:#2D2B38 url(../images/jscomp2.jpg) repeat-y;
  }
  
  .stuff p{
