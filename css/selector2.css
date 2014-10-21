@@ -114,7 +114,7 @@ p{
 
 
 
-.form{
+form{
 
 	width:450px;
 	color:#fff;
@@ -130,7 +130,7 @@ legend{
 
 
 
-.form ul li{
+form ul li{
 	list-style:none;
 	/*border:#E65759 1px solid;*/
 	margin-bottom:15px;
