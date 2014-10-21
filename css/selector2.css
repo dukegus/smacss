@@ -24,7 +24,7 @@ body{
  .header{
 	 background:#000 url(../images/jsbanner2.jpg) no-repeat ;
 	 color:#960;
-	 text-align:center;
+	 float:center;
 	 width:960px;
 	 height:180px;
 	 padding-left:10px;
