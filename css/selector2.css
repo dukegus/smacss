@@ -9,7 +9,7 @@
   }
   
 body{
-	 background:#000 url(../images/jscomp2.jpg) repeat;
+	 background:#000;
  }
  .shell{
 	 float:center;
@@ -152,7 +152,7 @@ textarea{
 	vertical-align:top;
 }
 
-.mybutt{
+.sendbutton{
 	width:100px;
 	margin-left:82px;
 }
